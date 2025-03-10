@@ -15,7 +15,6 @@ I am a researcher and professional in AI, machine learning, and education.
 
 ## Projects & Research
 - Chronic Kidney Disease Prediction using AI
-- Saraiki Handwriting Recognition
 
 ## Skills
 - Machine Learning, AI, Python, Research Writing

@@ -4,26 +4,7 @@
 
 My long-term vision is to bridge the gap between artificial intelligence (AI) and human health. I advance machine learning to address real-world health challenge. My research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
 
-# Optional: if you want a navigation menu
-header_pages:
-  - title: "Home"
-    url: "/"
-  - title: "Professor"
-    url: "/professor"
-  - title: "Team"
-    url: "/team"
-  - title: "Research"
-    url: "/research"
-  - title: "Publication"
-    url : "https://scholar.google.com/citations?user=VsIv9g0AAAAJ&hl=en"
-  - title: "Lectures"
-    url: "/lectures"
-  - title: "Funding"
-    url: "/funding"
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 ## Education
 - MSc Mathematics - University of Education, Pakistan

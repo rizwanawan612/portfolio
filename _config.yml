@@ -1,9 +1,5 @@
 theme: jekyll-theme-cayman
 description: "Nexus of AI in Healthcare"
-baseurl: ""
-url: "https://rizwanawan612.github.io/portfolio/"
-theme: minima # or any other Jekyll theme
-markdown: kramdown
 
 # Optional: if you want a navigation menu
 header_pages:

@@ -1,4 +1,4 @@
-## Mr. M. Rizwan
+## Rizwan
 
 ### To Bridge the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
 
@@ -7,6 +7,7 @@ My long-term vision is to bridge the gap between artificial intelligence (AI) an
 
 
 ## Education
+- MS Data Science- Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Haripur, Pakistan
 - MSc Mathematics - University of Education, Pakistan
 - BSc - University of Karachi, Pakistan
 

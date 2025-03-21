@@ -1,6 +1,6 @@
 ## Rizwan
 
-### To Bridge the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
+### Developing AI Solutions for Real-World Healthcare Needs
 
 My goal is to revolutionize healthcare 🏥 by seamlessly integrating AI 🤖. I develop human-centered machine learning models 🧠 to identify disease patterns 🧬 and create targeted therapies 💊, ultimately bridging the gap 🌉 between AI and human health.
 

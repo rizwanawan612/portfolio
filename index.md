@@ -2,18 +2,16 @@
 
 ### To Bridge the Gap Between Artificial Intelligence and the Real World Healthcare Challenges
 
-My long-term vision is to bridge the gap between artificial intelligence (AI) and human health. I advance machine learning to address real-world health challenge. My research focuses on developing human-centered machine learning models that recognize patterns among diseases and develop therapies.
+My goal is to revolutionize healthcare 🏥 by seamlessly integrating AI 🤖. I develop human-centered machine learning models 🧠 to identify disease patterns 🧬 and create targeted therapies 💊, ultimately bridging the gap 🌉 between AI and human health.
 
-
+## Latest News
+- March 2025: 🎉 Thrilled to announce that my MS research project has been awarded a 💰 2 million PKR grant under the HED KPK Endowment Fund! 🚀 Huge thanks to my supervisor, Dr. Rashid Naseem, for his invaluable guidance.
+- March 2025: 🎉 Exciting news! My publication, "Publications Landscape of Public Sector Medical Schools of Pakistan," will be presented at the First Conference on ‘Uses of Artificial Intelligence in Medical Sciences’ by Wah Medical College on April 11, 2025! 📚🔬✨
 
 ## Education
 - MS Data Science- Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Haripur, Pakistan
 - MSc Mathematics - University of Education, Pakistan
 - BSc - University of Karachi, Pakistan
-
-## Experience
-- Assistant Supervisor HR, Pak-Austria Fachhochschule
-- Former Secretarial Staff, Sino-Pak Center for AI
 
 ## Projects & Research
 - Chronic Kidney Disease Prediction using AI
@@ -21,5 +19,6 @@ My long-term vision is to bridge the gap between artificial intelligence (AI) an
 ## Skills
 - Machine Learning, AI, Python, Research Writing
 
-## News
-- Published a research paper on AI in Healthcare.
+## Experience
+- Assistant Supervisor HR, Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (31st July 20214 to Present)
+- Secretarial Staff, Sino-Pak Center for Artificial Intelligence, (24th February 2021 to 30th June 2024)

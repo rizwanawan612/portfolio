@@ -22,5 +22,6 @@ My goal is to revolutionize healthcare 🏥 by seamlessly integrating AI 🤖. I
 - Machine Learning, AI, Python, Research Writing
 
 ## Professional Experience
+- Research Associate (on a Funded Project), School of Computing Sciences,Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (01st July 2025 to Present)
 - Assistant Supervisor HR, Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (31st July 2024 to Present)
 - Secretarial Staff, Sino-Pak Center for Artificial Intelligence, (24th February 2021 to 30th June 2024)

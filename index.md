@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rizwan | Portfolio"
+title: "Rizwan"
 ---
 
 # Rizwan  

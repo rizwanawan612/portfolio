@@ -1,27 +1,77 @@
-## Rizwan
+---
+layout: default
+title: "Rizwan | Nexus of AI in Healthcare"
+---
 
-### Developing AI Solutions for Real-World Healthcare Needs
+# Rizwan  
+## Nexus of AI in Healthcare  
 
-My goal is to revolutionize healthcare 🏥 by seamlessly integrating AI 🤖. I develop human-centered machine learning models 🧠 to identify disease patterns 🧬 and create targeted therapies 💊, ultimately bridging the gap 🌉 between AI and human health.
+**Developing AI Solutions for Real-World Healthcare Needs**  
 
-## Latest News
-- April 10, 2025: 🎉 Thrilled to share that I have successfully defended my MS research thesis! 🎉🥳 This significant achievement would not have been possible without the invaluable support and mentorship of my dedicated advisor, Dr. Rashid Naseem 👨‍🏫👩‍🏫, and the insightful feedback and constructive criticism from my defense committee members. 🙏💡 I am also deeply grateful to Thankful to all who helped along the way.
-- March 24,2025: 🎉 Exciting news! My publication, "Publications Landscape of Public Sector Medical Schools of Pakistan," will be presented at the First Conference on ‘Uses of Artificial Intelligence in Medical Sciences’ by Wah Medical College on April 11, 2025! 📚🔬✨
-- March 14, 2025: 🎉 Thrilled to announce that my MS research project has been awarded a 💰 2 million PKR grant under the HED KPK Endowment Fund! 🚀 Huge thanks to my supervisor, Dr. Rashid Naseem, for his invaluable guidance.
+My goal is to revolutionize healthcare by seamlessly integrating AI. I develop human-centered machine learning models to identify disease patterns and create targeted therapies — ultimately bridging the gap between AI and human health.
 
+---
 
-## Education
-- MS Data Science- Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Haripur, Pakistan
-- MSc Mathematics - University of Education, Pakistan
-- BSc - University of Karachi, Pakistan
+## 📰 Latest News  
+* **April 10, 2025** — Successfully defended my MS research thesis under the supervision of Dr. Rashid Naseem.  
+* **March 24, 2025** — My publication *“Publications Landscape of Public Sector Medical Schools of Pakistan”* will be presented at the First Conference on Uses of Artificial Intelligence in Medical Sciences (Wah Medical College).  
+* **March 14, 2025** — MS research project awarded a PKR 2M grant under the HED KPK Endowment Fund.  
 
-## MS Research Projects
-- Machine Learning Approach for Prophecy of Chronic Kidney Disease
+[Optional: Link to full news page or blog posts]
 
-## Skills
-- Machine Learning, AI, Python, Research Writing
+---
 
-## Professional Experience
-- Research Associate (on a Funded Project), School of Computing Sciences,Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (01st July 2025 to Present)
-- Assistant Supervisor HR, Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (31st July 2024 to Present)
-- Secretarial Staff, Sino-Pak Center for Artificial Intelligence, (24th February 2021 to 30th June 2024)
+## 🎓 Education  
+- **MS Data Science**, Pak-Austria Fachhochschule – Institute of Applied Sciences & Technology, Haripur, Pakistan  
+- **MSc Mathematics**, University of Education, Pakistan  
+- **BSc**, University of Karachi, Pakistan  
+
+---
+
+## 🔬 MS Research Projects  
+- **Machine Learning Approach for Prophecy of Chronic Kidney Disease** — *[Link to paper / GitHub repo / Slides]*  
+
+---
+
+## 🛠️ Skills  
+- Machine Learning · AI · Python · Research Writing · Data Analysis · …  
+
+---
+
+## 💼 Professional Experience  
+| Role | Institution | Duration | Description / Responsibilities / Achievements |
+|---|---|---|---|
+| Research Associate | School of Computing Sciences, Pak-Austria Fachhochschule | July 2025 – Present | Working on funded AI Research Project (possibly include project name / link) |
+| Assistant Supervisor HR | Pak-Austria Fachhochschule | July 2024 – Present | Description of tasks (HR-related / coordination / leadership) |
+| Secretarial Staff | Sino-Pak Center for Artificial Intelligence | Feb 2021 – June 2024 | Administrative coordination, project support, liaison with faculty / students |
+
+---
+
+## 📂 Projects  
+Add a **Projects** section (outside “Research Projects”), with entries like:  
+- *Project Name* — Short description. Tools used. Link to repository or demo.  
+- *Startup / App / Toolkit* — link, screenshots or image (if you add image files).  
+
+---
+
+## ✉️ Contact  
+You can add a “Contact Me” section at bottom:  
+- ✉️ Email: your-email@example.com  
+- 🔗 LinkedIn: [Your LinkedIn Profile]  
+- 🔗 GitHub: [Your GitHub Profile]  
+- [Optional] A simple contact form (via Formspree / Netlify forms)  
+
+---
+
+## 🧩 Design / Layout Enhancements
+
+Here are some ideas to polish the visual design:
+
+1. **Add a Navigation Bar**  
+   Create a `_includes/navbar.html` (or use theme features) and include links to “Home”, “Projects”, “Publications”, “Contact”.
+
+2. **Profile Photo or Header Banner**  
+   Add an image file in your repo (e.g. `assets/profile.jpg`)  
+   In the top of page insert:  
+   ```html
+   <img src="/portfolio/assets/profile.jpg" alt="Profile Photo" style="width:150px; border-radius:50%;">

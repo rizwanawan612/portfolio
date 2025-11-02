@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Rizwan | Nexus of AI in Healthcare"
+title: "Rizwan | Portfolio"
 ---
 
 # Rizwan  

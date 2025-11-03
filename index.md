@@ -29,7 +29,7 @@ My goal is to revolutionize healthcare by seamlessly integrating AI. I develop h
 ---
 
 ## 🔬 MS Research Projects  
-- **Machine Learning Approach for Prophecy of Chronic Kidney Disease** — *[Link to paper / GitHub repo / Slides]*  
+- **Machine Learning Approach for Prophecy of Chronic Kidney Disease**  
 
 ---
 
@@ -39,7 +39,7 @@ My goal is to revolutionize healthcare by seamlessly integrating AI. I develop h
 ---
 
 ## 💼 Professional Experience  
-- **Research Associate ** (on a Funded Project), School of Computing Sciences,Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (01st July 2025 to Present)
+- **Research Associate** (on a Funded Project), School of Computing Sciences,Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (01st July 2025 to Present)
 - **Assistant Supervisor HR**, Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (31st July 2024 to Present)
 - **Secretarial Staff**, Sino-Pak Center for Artificial Intelligence, (24th February 2021 to 30th June 2024)
 
@@ -54,22 +54,7 @@ Add a **Projects** section (outside “Research Projects”), with entries like:
 
 ## ✉️ Contact  
 You can add a “Contact Me” section at bottom:  
-- ✉️ Email: your-email@example.com  
-- 🔗 LinkedIn: [Your LinkedIn Profile]  
-- 🔗 GitHub: [Your GitHub Profile]  
-- [Optional] A simple contact form (via Formspree / Netlify forms)  
-
----
-
-## 🧩 Design / Layout Enhancements
-
-Here are some ideas to polish the visual design:
-
-1. **Add a Navigation Bar**  
-   Create a `_includes/navbar.html` (or use theme features) and include links to “Home”, “Projects”, “Publications”, “Contact”.
-
-2. **Profile Photo or Header Banner**  
-   Add an image file in your repo (e.g. `assets/profile.jpg`)  
-   In the top of page insert:  
-   ```html
-   <img src="/portfolio/assets/profile.jpg" alt="Profile Photo" style="width:150px; border-radius:50%;">
+- ✉️ Email: rizwanawan612@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-rizwan-b08350202/ 
+- 🔗 GitHub: https://rizwanawan612.github.io/portfolio/  
+- 🔗 ORCID: https://orcid.org/0009-0004-9735-1743

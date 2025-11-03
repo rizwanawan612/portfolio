@@ -4,9 +4,7 @@ title: "Rizwan"
 ---
 
 # Rizwan  
-## Nexus of AI in Healthcare  
-
-**Developing AI Solutions for Real-World Healthcare Needs**  
+## Data Science, AI in Healthcare, Multimodal, Transdisciplinary, NEUXS 
 
 My goal is to revolutionize healthcare by seamlessly integrating AI. I develop human-centered machine learning models to identify disease patterns and create targeted therapies — ultimately bridging the gap between AI and human health.
 
@@ -52,8 +50,7 @@ Add a **Projects** section (outside “Research Projects”), with entries like:
 
 ---
 
-## ✉️ Contact  
-You can add a “Contact Me” section at bottom:  
+## ✉️ Contact    
 - ✉️ Email: rizwanawan612@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-rizwan-b08350202/ 
 - 🔗 GitHub: https://rizwanawan612.github.io/portfolio/  

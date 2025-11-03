@@ -3,7 +3,6 @@ layout: default
 title: "Rizwan"
 ---
 
-# Rizwan  
 ## Data Science, Multimodal, Transdisciplinary, NEUXS 
 
 My research interests are **_interdisciplinary_** lie at the intersection of artificial intelligence, machine learning, and explainable AI. I see my approach as **_transdisciplinary_**, bridging academic theory, technological innovation, and industrial applications. My primary ambition is to develop transparent, robust, and interpretable model methods for multimodal data, building a **_NEXUS_** between researchers, engineers, and professionals to solve real-world challenges.

@@ -50,9 +50,17 @@ Add a **Projects** section (outside “Research Projects”), with entries like:
 
 ---
 
+<!-- Make sure to add this line in your HTML head or _includes/head.html -->
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      crossorigin="anonymous" />
+
 ## ✉️ Contact
-[LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-b08350202/) •  
-[GitHub](https://github.com/rizwanawan612) •  
-[ORCID](https://orcid.org/0009-0004-9735-1743) •  
-[Email](mailto:rizwanawan612@gmail.com)
+
+<p align="center">
+  <a href="mailto:rizwanawan612@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-rizwan-b08350202/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/rizwanawan612"><i class="fa-brands fa-github"></i> GitHub</a> &nbsp; | &nbsp;
+  <a href="https://orcid.org/0009-0004-9735-1743"><i class="fa-brands fa-orcid"></i> ORCID</a>
+</p>
 

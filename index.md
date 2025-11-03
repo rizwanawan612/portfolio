@@ -39,11 +39,9 @@ My goal is to revolutionize healthcare by seamlessly integrating AI. I develop h
 ---
 
 ## 💼 Professional Experience  
-| Role | Institution | Duration | Description / Responsibilities / Achievements |
-|---|---|---|---|
-| Research Associate | School of Computing Sciences, Pak-Austria Fachhochschule | July 2025 – Present | Working on funded AI Research Project (possibly include project name / link) |
-| Assistant Supervisor HR | Pak-Austria Fachhochschule | July 2024 – Present | Description of tasks (HR-related / coordination / leadership) |
-| Secretarial Staff | Sino-Pak Center for Artificial Intelligence | Feb 2021 – June 2024 | Administrative coordination, project support, liaison with faculty / students |
+- **Research Associate ** (on a Funded Project), School of Computing Sciences,Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (01st July 2025 to Present)
+- **Assistant Supervisor HR**, Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, (31st July 2024 to Present)
+- **Secretarial Staff**, Sino-Pak Center for Artificial Intelligence, (24th February 2021 to 30th June 2024)
 
 ---
 

@@ -4,35 +4,9 @@ title: "Rizwan"
 ---
 
 # Rizwan  
-## Data Science, AI in Healthcare, Multimodal, Transdisciplinary, NEUXS 
+## Data Science, Multimodal, Transdisciplinary, NEUXS 
 
-My goal is to revolutionize healthcare by seamlessly integrating AI. I develop human-centered machine learning models to identify disease patterns and create targeted therapies — ultimately bridging the gap between AI and human health.
-
----
-
-## 📰 Latest News  
-* **April 10, 2025** — Successfully defended my MS research thesis under the supervision of Dr. Rashid Naseem.  
-* **March 24, 2025** — My publication *“Publications Landscape of Public Sector Medical Schools of Pakistan”* will be presented at the First Conference on Uses of Artificial Intelligence in Medical Sciences (Wah Medical College).  
-* **March 14, 2025** — MS research project awarded a PKR 2M grant under the HED KPK Endowment Fund.  
-
-[Optional: Link to full news page or blog posts]
-
----
-
-## 🎓 Education  
-- **MS Data Science**, Pak-Austria Fachhochschule – Institute of Applied Sciences & Technology, Haripur, Pakistan  
-- **MSc Mathematics**, University of Education, Pakistan  
-- **BSc**, University of Karachi, Pakistan  
-
----
-
-## 🔬 MS Research Projects  
-- **Machine Learning Approach for Prophecy of Chronic Kidney Disease**  
-
----
-
-## 🛠️ Skills  
-- Machine Learning · AI · Python · Research Writing · Data Analysis · …  
+My research interests are **_interdisciplinary_** lie at the intersection of artificial intelligence, machine learning, and explainable AI. I see my approach as **_transdisciplinary_**, bridging academic theory, technological innovation, and industrial applications. My primary ambition is to develop transparent, robust, and interpretable model methods for multimodal data, building a **_NEXUS_** between researchers, engineers, and professionals to solve real-world challenges.
 
 ---
 
@@ -43,7 +17,31 @@ My goal is to revolutionize healthcare by seamlessly integrating AI. I develop h
 
 ---
 
-## 📂 Projects  
+## 🎓 Education  
+- **MS Data Science**, Pak-Austria Fachhochschule – Institute of Applied Sciences & Technology, Haripur, Pakistan  
+- **MSc Mathematics**, University of Education, Pakistan  
+- **BSc**, University of Karachi, Pakistan  
+
+---
+
+## 📰 Latest News  
+* **April 10, 2025** — Successfully defended my MS research thesis under the supervision of Dr. Rashid Naseem.  
+* **March 24, 2025** — My publication *“Publications Landscape of Public Sector Medical Schools of Pakistan”* will be presented at the First Conference on Uses of Artificial Intelligence in Medical Sciences (Wah Medical College).  
+* **March 14, 2025** — MS research project awarded a PKR 2M grant under the HED KPK Endowment Fund.  
+
+---
+
+## 🔬 Research Projects  
+- **Machine Learning Approach for Prophecy of Chronic Kidney Disease**  
+
+---
+
+## 🛠️ Skills  
+- Machine Learning · AI · Python · Research Writing · Data Analysis · …  
+
+---
+
+## 📂 Research Publications  
 Add a **Projects** section (outside “Research Projects”), with entries like:  
 - *Project Name* — Short description. Tools used. Link to repository or demo.  
 - *Startup / App / Toolkit* — link, screenshots or image (if you add image files).  
@@ -55,7 +53,7 @@ Add a **Projects** section (outside “Research Projects”), with entries like:
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
       crossorigin="anonymous" />
 
-## ✉️ Contact
+## ✉️ Contacts
 
 <p align="center">
   <a href="mailto:rizwanawan612@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a> &nbsp; | &nbsp;

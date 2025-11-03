@@ -50,8 +50,9 @@ Add a **Projects** section (outside “Research Projects”), with entries like:
 
 ---
 
-## ✉️ Contact    
-- ✉️ Email: rizwanawan612@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-rizwan-b08350202/ 
-- 🔗 GitHub: https://rizwanawan612.github.io/portfolio/  
-- 🔗 ORCID: https://orcid.org/0009-0004-9735-1743
+## ✉️ Contact
+[LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-b08350202/) •  
+[GitHub](https://github.com/rizwanawan612) •  
+[ORCID](https://orcid.org/0009-0004-9735-1743) •  
+[Email](mailto:rizwanawan612@gmail.com)
+

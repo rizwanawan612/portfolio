@@ -875,3 +875,27 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
     <a class="contact-link" href="https://orcid.org/0009-0004-9735-1743" target="_blank"><i class="fa-brands fa-orcid"></i> ORCID</a>
   </div>
 </div>
+<div style="text-align:center; padding: 1.5rem 0; font-family: var(--mono); font-size: 0.78rem; color: var(--ink-muted); border-top: 1px solid var(--border); margin-top: 1rem;">
+  Last visited: <span id="pk-time"></span>
+</div>
+
+<script>
+  function updateTime() {
+    const now = new Date();
+    const options = {
+      timeZone: 'Asia/Karachi',
+      weekday: 'long',
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit',
+      hour12: true
+    };
+    document.getElementById('pk-time').textContent =
+      now.toLocaleString('en-PK', options) + ' (PKT)';
+  }
+  updateTime();
+  setInterval(updateTime, 1000);
+</script>

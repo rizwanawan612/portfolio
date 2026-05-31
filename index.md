@@ -660,7 +660,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div class="pub-num">Publication · 01 · 2025</div>
       <div class="pub-title">Comparative Analysis of Supervised Machine Learning Algorithms for Predicting Chronic Kidney Diseases</div>
       <div class="pub-venue">Muhammad Rizwan, Maqbool Khan, Maria Gul, Muhammad Ahmad Khan, Rashid Naseem, Momina Shaheen — <em>International Conference on Data Processing and Networking, 2025</em></div>
-      <a class="pub-link" href="https://doi.org/10.1007/978-981-96-3102-534" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.1007/978-981-96-3102-534</a>
+      <a class="pub-link" href="https://link.springer.com/chapter/10.1007/978-981-96-3102-5_34" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> https://link.springer.com/chapter/10.1007/978-981-96-3102-5_34</a>
     </div>
 
     <div class="pub-item">

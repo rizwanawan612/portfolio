@@ -877,6 +877,15 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
 </div>
 <div style="text-align:center; padding: 1.5rem 0; font-family: var(--mono); font-size: 0.78rem; color: var(--ink-muted); border-top: 1px solid var(--border); margin-top: 1rem;">
   Last visited: <span id="pk-time"></span>
+  &nbsp;·&nbsp;
+  <span style="display:inline-flex; align-items:center; gap:6px;">
+    <i class="fa-solid fa-eye" style="color:var(--teal); font-size:0.8rem;"></i>
+    Visitors: <img 
+      src="https://hits.sh/rizwanawan612.github.io.svg?style=flat&label=&color=0f6e56&labelColor=e1f5ee&extraCount=0" 
+      alt="visitor count"
+      style="height:18px; vertical-align:middle; border-radius:4px;"
+    />
+  </span>
 </div>
 
 <script>

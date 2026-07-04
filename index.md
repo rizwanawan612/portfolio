@@ -658,65 +658,93 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
 <div class="section">
   <div class="sec-label">Scholarly Work</div>
   <div class="sec-title">Research Publications</div>
+
+  <!-- ─────────────── JOURNAL ARTICLES ─────────────── -->
+  <div class="sec-label" style="margin-top:1.5rem">Journal Articles</div>
   <div class="pub-list">
 
     <div class="pub-item">
-      <div class="pub-num">Publication · 01 · 2025</div>
+      <div class="pub-num">Journal · 01 · 2026</div>
+      <div class="pub-title">Explainable AI Machine Learning Framework for Chronic Kidney Disease Prediction Utilizing Electronic Health Records</div>
+      <div class="pub-venue">Muhammad Rizwan, Rashid Naseem, Muhammad Ahmad Khan, Arshad Ahmad, Muhammad Fozan, Nazeer Muhammad — <em>BMC Medical Informatics and Decision Making, 2026</em></div>
+      <a class="pub-link" href="https://doi.org/10.1186/s12911-026-03602-1" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.1186/s12911-026-03602-1</a>
+    </div>
+
+    <div class="pub-item">
+      <div class="pub-num">Journal · 02 · 2025</div>
+      <div class="pub-title">Intelligent Delignification: Leveraging Explainable AI for Ozone Transport Modeling and Optimization</div>
+      <div class="pub-venue">Muhammad Rizwan, Muhammad Ahmad Khan, Sharifullah Khan et al. — <em>Nature Scientific Reports, 2025</em></div>
+      <a class="pub-link" href="https://doi.org/10.1038/s41598-025-28638-7" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.1038/s41598-025-28638-7</a>
+    </div>
+
+  </div>
+
+  <!-- ─────────────── CONFERENCE PAPERS ─────────────── -->
+  <div class="sec-label" style="margin-top:1.5rem">Conference Papers</div>
+  <div class="pub-list">
+
+    <div class="pub-item">
+      <div class="pub-num">Conference · 01 · 2025</div>
       <div class="pub-title">Comparative Analysis of Supervised Machine Learning Algorithms for Predicting Chronic Kidney Diseases</div>
       <div class="pub-venue">Muhammad Rizwan, Maqbool Khan, Maria Gul, Muhammad Ahmad Khan, Rashid Naseem, Momina Shaheen — <em>International Conference on Data Processing and Networking, 2025</em></div>
       <a class="pub-link" href="https://link.springer.com/chapter/10.1007/978-981-96-3102-5_34" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> https://link.springer.com/chapter/10.1007/978-981-96-3102-5_34</a>
     </div>
 
     <div class="pub-item">
-      <div class="pub-num">Publication · 02 · 2025</div>
-      <div class="pub-title">Intelligent Delignification: Leveraging Explainable AI for Ozone Transport Modeling and Optimization</div>
-      <div class="pub-venue">Muhammad Rizwan, Muhammad Ahmad Khan, Sharifullah Khan et al. — <em>Nature Scientific Reports, 2025</em></div>
-      <a class="pub-link" href="https://doi.org/10.1038/s41598-025-28638-7" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.1038/s41598-025-28638-7</a>
-    </div>
-
-    <div class="pub-item">
-      <div class="pub-num">Publication · 03 · 2025</div>
+      <div class="pub-num">Conference · 02 · 2025</div>
       <div class="pub-title">Explainable AI-Driven Chronic Kidney Disease Prediction System</div>
       <div class="pub-venue">Muhammad Ahmad Khan, Muhammad Rizwan, Saira Bhatti, Maqbool Khan — <em>IEEE ETECOM 2025</em></div>
       <a class="pub-link" href="https://doi.org/10.1109/ETECOM66111.2025.11319132" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.1109/ETECOM66111.2025.11319132</a>
     </div>
 
     <div class="pub-item">
-      <div class="pub-num">Dataset · 04 · 2025</div>
-      <div class="pub-title">Saraiki Handwritten Characters (0–9) Dataset</div>
-      <div class="pub-venue">Muhammad Ahmad Khan, Muhammad Rizwan — <em>Mendeley Data, 2025</em></div>
-      <a class="pub-link" href="https://data.mendeley.com/datasets/wcnzkw9n2f/1" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> data.mendeley.com/datasets/wcnzkw9n2f/1</a>
+      <div class="pub-num">Conference · 03 · 2025</div>
+      <div class="pub-title">Publications Landscape of Public Sector Medical Schools of Pakistan</div>
+      <div class="pub-venue">Muhammad Rizwan, Muhammad Fozan, Waqar Khalid Saeed — <em>1st Conference on AI in Medical Sciences, Wah Medical College, 2025</em></div>
+      <a class="pub-link" href="https://wahmedicalcollege.edu.pk/2024/12/03/1st-conference-on-uses-of-artificial-intelligence-in-medical-sciences-by-wah-medical-college/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> Conference page</a>
     </div>
 
-    <div class="pub-item">
-      <div class="pub-num">Dataset · 05 · 2025</div>
-      <div class="pub-title">Optimizing Ozone Delignification of Lignocellulose Dataset</div>
-      <div class="pub-venue">Muhammad Rizwan, Muhammad Ahmad Khan, Khurram Shahzad Baig — <em>Figshare, 2025</em></div>
-      <a class="pub-link" href="https://doi.org/10.6084/m9.figshare.29289128" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.6084/m9.figshare.29289128</a>
-    </div>
+  </div>
+
+  <!-- ─────────────── DATASETS ─────────────── -->
+  <div class="sec-label" style="margin-top:1.5rem">Datasets</div>
+  <div class="pub-list">
 
     <div class="pub-item">
-      <div class="pub-num">Dataset · 06 · 2025</div>
+      <div class="pub-num">Dataset · 01 · 2025</div>
       <div class="pub-title">A Benchmark Biomarker Dataset for Classification of Chronic Kidney Disease Patients in Pakistan</div>
       <div class="pub-venue">Muhammad Rizwan, Rashid Naseem — <em>Figshare, 2025</em></div>
       <a class="pub-link" href="https://doi.org/10.6084/m9.figshare.29603663" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.6084/m9.figshare.29603663</a>
     </div>
 
     <div class="pub-item">
-      <div class="pub-num">Conference · 07 · 2025</div>
-      <div class="pub-title">Publications Landscape of Public Sector Medical Schools of Pakistan</div>
-      <div class="pub-venue">Muhammad Rizwan, Muhammad Fozan, Waqar Khalid Saeed — <em>1st Conference on AI in Medical Sciences, Wah Medical College, 2025</em></div>
-      <a class="pub-link" href="https://wahmedicalcollege.edu.pk/2024/12/03/1st-conference-on-uses-of-artificial-intelligence-in-medical-sciences-by-wah-medical-college/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> Conference page</a>
+      <div class="pub-num">Dataset · 02 · 2025</div>
+      <div class="pub-title">Optimizing Ozone Delignification of Lignocellulose Dataset</div>
+      <div class="pub-venue">Muhammad Rizwan, Muhammad Ahmad Khan, Khurram Shahzad Baig — <em>Figshare, 2025</em></div>
+      <a class="pub-link" href="https://doi.org/10.6084/m9.figshare.29289128" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> doi.org/10.6084/m9.figshare.29289128</a>
     </div>
 
     <div class="pub-item">
-      <div class="pub-num">Competition · 08 · 2025</div>
+      <div class="pub-num">Dataset · 03 · 2025</div>
+      <div class="pub-title">Saraiki Handwritten Characters (0–9) Dataset</div>
+      <div class="pub-venue">Muhammad Ahmad Khan, Muhammad Rizwan — <em>Mendeley Data, 2025</em></div>
+      <a class="pub-link" href="https://data.mendeley.com/datasets/wcnzkw9n2f/1" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size:0.7rem"></i> data.mendeley.com/datasets/wcnzkw9n2f/1</a>
+    </div>
+
+  </div>
+
+  <!-- ─────────────── COMPETITIONS ─────────────── -->
+  <div class="sec-label" style="margin-top:1.5rem">Competitions</div>
+  <div class="pub-list">
+
+    <div class="pub-item">
+      <div class="pub-num">Competition · 01 · 2025</div>
       <div class="pub-title">Data Science for Resilience: Transforming WASH and Learning Environments in Climate-Vulnerable Regions</div>
       <div class="pub-venue">Muhammad Rizwan, Muzammil Irshad, Rashid Naseem — <em>Inter-University Climate Change Competition, NIUIP, UET Peshawar / UNICEF, 2025</em></div>
     </div>
 
     <div class="pub-item">
-      <div class="pub-num">Competition · 09 · 2025</div>
+      <div class="pub-num">Competition · 02 · 2025</div>
       <div class="pub-title">AI-Driven Hybrid MBR-RO Membrane Technology for Sustainable Industrial Wastewater Treatment</div>
       <div class="pub-venue">Asma Iqbal, Engr. Muhammad Shahzaib, Muhammad Rizwan, Dr. Khurram Shahzad Baig — <em>Inter-University Climate Change Competition, NIUIP, UET Peshawar / UNICEF, 2025</em></div>
     </div>

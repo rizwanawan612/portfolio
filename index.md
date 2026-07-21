@@ -553,6 +553,10 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
   <div class="sec-title">Latest News</div>
   <div class="news-list">
     <div class="news-item">
+  <div class="news-date">July 20, 2026</div>
+  <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"A Statistical Comparative Analysis of Edge vs Heavyweight CNN Architectures for Vehicle Classification in Intelligent Traffic Systems"</em> has been accepted for presentation at the <strong>2nd International Conference on Logistics (ICL 2027)</strong>, to be held at the <strong>University of Jeddah</strong>, Jeddah, Kingdom of Saudi Arabia, on <strong>March 30–31, 2027</strong>.</div>
+</div>    
+    <div class="news-item">
       <div class="news-date">May 25, 2026</div>
       <div class="news-text"><strong>Journal Paper Accepted</strong> — Our article <em>"Explainable AI machine learning framework for chronic kidney disease prediction utilizing electronic health records"</em> has been accepted for publication in <strong>BMC Medical Informatics and Decision Making</strong>.</div>
     </div>

@@ -553,6 +553,9 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
   <div class="sec-title">Latest News</div>
   <div class="news-list">
     <div class="news-item">
+  <div class="news-date">October 20, 2026</div>
+  <div class="news-text"><strong>Journal Paper Accepted</strong> — Our paper <em>"Federated and Explainable Machine Learning for Chronic Kidney Disease Prediction in Resource-Constrained Settings"</em> has been accepted for publication in <strong>International Journal of Data Science and Analytics</strong> (Springer Nature).</div>
+</div>
   <div class="news-date">August 26, 2026</div>
   <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Rough Sets for Efficient NIDS: A Cross-Architecture Benchmark of Feature Selection for Tabular Deep Learning"</em> has been accepted for presentation at the <strong>21st IEEE International Conference on Emerging Technologies (IEEE ICET 2026)</strong>, to be held at the <strong>GIK Institute, Topi, Pakistan</strong>, on <strong>November 18–19, 2026</strong>.</div>
 </div>

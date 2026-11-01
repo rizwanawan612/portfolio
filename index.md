@@ -577,6 +577,10 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div class="news-text"><strong>Journal Paper Accepted</strong> — Our article <em>"Explainable AI machine learning framework for chronic kidney disease prediction utilizing electronic health records"</em> has been accepted for publication in <strong>BMC Medical Informatics and Decision Making</strong>.</div>
     </div>
     <div class="news-item">
+  <div class="news-date">November 11, 2025</div>
+  <div class="news-text"><strong>Journal Paper Accepted</strong> — Our article <em>"Intelligent Delignification: Leveraging Explainable AI for Ozone Transport Modeling and Optimization"</em> has been accepted for publication in <strong>Scientific Reports (Nature Portfolio)</strong>.</div>
+</div>
+    <div class="news-item">
       <div class="news-date">July 01, 2025</div>
       <div class="news-text"><strong>Research Associate role begins</strong> — Joined the funded project "Machine Learning Approach for Prophecy on Chronic Kidney Disease" (HEREF-3067) at PAF-IAST under Dr. Rashid Naseem.</div>
     </div>

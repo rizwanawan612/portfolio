@@ -597,7 +597,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div class="news-text"><strong>Startup Founded</strong> — Launched <em>"Kidney Vision"</em> through the Business Incubation Center at PAF-IAST, an AI-powered CKD early detection platform.</div>
     </div>
     <div class="news-item">
-  <div class="news-date">2025</div>
+  <div class="news-date">September 16, 2025</div>
   <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Explainable AI-Driven Chronic Kidney Disease Prediction System"</em> was accepted for presentation in the <strong>Artificial Intelligence, Machine Learning, and Business Analytics</strong> track at the <strong>2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM)</strong>, held on <strong>October 29–30, 2025</strong>, at the <strong>American University of Bahrain (AUBH), Riffa, Kingdom of Bahrain</strong>.</div>
 </div>
     <div class="news-item">

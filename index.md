@@ -553,6 +553,10 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
   <div class="sec-title">Latest News</div>
   <div class="news-list">
     <div class="news-item">
+  <div class="news-date">November 1, 2026</div>
+  <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Interpretable Machine Learning for Chronic Kidney Disease Prediction: A SHAP- and LIME-Based Evaluation on a Pakistani Patient Dataset"</em> has been accepted for presentation at the <strong>2026 IEEE Horizons of Information Technology and Engineering (HITE)</strong>, to be held in <strong>University of Central Punjab, Lahore, Pakistan</strong>, on <strong>December 10–11, 2026</strong>.</div>
+</div>
+    <div class="news-item">
   <div class="news-date">October 20, 2026</div>
   <div class="news-text"><strong>Journal Paper Accepted</strong> — Our paper <em>"Federated and Explainable Machine Learning for Chronic Kidney Disease Prediction in Resource-Constrained Settings"</em> has been accepted for publication in <strong>International Journal of Data Science and Analytics</strong> (Springer Nature).</div>
 </div>
@@ -573,7 +577,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div class="news-text"><strong>Journal Paper Accepted</strong> — Our article <em>"Explainable AI machine learning framework for chronic kidney disease prediction utilizing electronic health records"</em> has been accepted for publication in <strong>BMC Medical Informatics and Decision Making</strong>.</div>
     </div>
     <div class="news-item">
-      <div class="news-date">July 2025</div>
+      <div class="news-date">July 01, 2025</div>
       <div class="news-text"><strong>Research Associate role begins</strong> — Joined the funded project "Machine Learning Approach for Prophecy on Chronic Kidney Disease" (HEREF-3067) at PAF-IAST under Dr. Rashid Naseem.</div>
     </div>
     <div class="news-item">
@@ -589,9 +593,17 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div class="news-text"><strong>PKR 2 Million Research Grant</strong> — MS research project awarded funding under the HED KPK Endowment Fund (HEREF-3067).</div>
     </div>
     <div class="news-item">
-      <div class="news-date">2025</div>
+      <div class="news-date">November 2025</div>
       <div class="news-text"><strong>Startup Founded</strong> — Launched <em>"Kidney Vision"</em> through the Business Incubation Center at PAF-IAST, an AI-powered CKD early detection platform.</div>
     </div>
+    <div class="news-item">
+  <div class="news-date">2025</div>
+  <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Explainable AI-Driven Chronic Kidney Disease Prediction System"</em> was accepted for presentation in the <strong>Artificial Intelligence, Machine Learning, and Business Analytics</strong> track at the <strong>2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM)</strong>, held on <strong>October 29–30, 2025</strong>, at the <strong>American University of Bahrain (AUBH), Riffa, Kingdom of Bahrain</strong>.</div>
+</div>
+    <div class="news-item">
+  <div class="news-date">August 20, 2024</div>
+  <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Comparative Analysis of Supervised Machine Learning Algorithms for Predicting Chronic Kidney Diseases"</em> has been accepted for publication in the <strong>Springer Lecture Notes in Networks and Systems (LNNS) series</strong> and presentation at the <strong>International Conference on Data-Processing and Networking (ICDPN 2024)</strong>, held on <strong>October 25–26, 2024</strong>, in <strong>České Budějovice, Czech Republic</strong>.</div>
+</div>
   </div>
 </div>
 
@@ -605,7 +617,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
       <div>
         <div class="exp-role">Research Associate <span style="font-weight:400;color:var(--ink-muted)">— Funded Project</span></div>
         <div class="exp-org">School of Computing Sciences, PAF-IAST · Haripur, Pakistan</div>
-        <div class="exp-period">Jul 2025 – Present</div>
+        <div class="exp-period">Jul 01, 2025 – Present</div>
         <ul class="exp-bullets">
           <li>Leading ML model development for CKD prediction under project HEREF-3067 supervised by Dr. Rashid Naseem</li>
           <li>Data collection, cleaning, preprocessing, and feature engineering from biomarker datasets</li>

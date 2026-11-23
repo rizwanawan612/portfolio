@@ -554,7 +554,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
   <div class="news-list">
 <div class="news-item">
   <div class="news-date">November 13, 2026</div>
-  <div class="news-text"><strong>Conference Paper Provisionally Accepted</strong> — Our paper <em>"What the Label Measures: A Target-Validity Analysis of Deep Learning for Chronic Kidney Disease Imaging"</em> has been accepted for presentation at the <strong>7th International Conference on Innovative Computing (ICIC 2026)</strong>, to be held in <strong>University of Management and Technology, Lahore, Pakistan</strong>, on <strong>December 2–3, 2026</strong>.</div>
+  <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"What the Label Measures: A Target-Validity Analysis of Deep Learning for Chronic Kidney Disease Imaging"</em> has been accepted for presentation at the <strong>7th International Conference on Innovative Computing (ICIC 2026)</strong>, to be held in <strong>University of Management and Technology, Lahore, Pakistan</strong>, on <strong>December 2–3, 2026</strong>.</div>
 </div>
     <div class="news-item">
   <div class="news-date">October 30, 2026</div>

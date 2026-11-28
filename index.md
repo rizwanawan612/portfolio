@@ -555,7 +555,7 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
     ```html
 <div class="news-item">
     <div class="news-date">November 28, 2026</div>
-    <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Multi-Step Daily Maximum Temperature Forecasting in Extreme Arid Zones of Pakistan for Heat Wave Detection"</em> (Paper ID: 91) has been accepted for presentation at the <strong>20th International Conference on Open Source Systems and Technologies (ICOSST 2026)</strong>, organized by the <strong>Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan</strong>, on <strong>December 22–23, 2026</strong>.</div>
+    <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Multi-Step Daily Maximum Temperature Forecasting in Extreme Arid Zones of Pakistan for Heat Wave Detection"</em> has been accepted for presentation at the <strong>20th International Conference on Open Source Systems and Technologies (ICOSST 2026)</strong>, organized by the <strong>Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan</strong>, on <strong>December 22–23, 2026</strong>.</div>
 </div>    
 <div class="news-item">
   <div class="news-date">November 13, 2026</div>

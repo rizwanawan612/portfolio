@@ -552,6 +552,11 @@ title: "Muhammad Rizwan — Data Scientist & AI Researcher"
   <div class="sec-label">Updates</div>
   <div class="sec-title">Latest News</div>
   <div class="news-list">
+    ```html
+<div class="news-item">
+    <div class="news-date">November 28, 2026</div>
+    <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"Multi-Step Daily Maximum Temperature Forecasting in Extreme Arid Zones of Pakistan for Heat Wave Detection"</em> (Paper ID: 91) has been accepted for presentation at the <strong>20th International Conference on Open Source Systems and Technologies (ICOSST 2026)</strong>, organized by the <strong>Al-Khawarizmi Institute of Computer Science (KICS), University of Engineering and Technology (UET), Lahore, Pakistan</strong>, on <strong>December 22–23, 2026</strong>.</div>
+</div>    
 <div class="news-item">
   <div class="news-date">November 13, 2026</div>
   <div class="news-text"><strong>Conference Paper Accepted</strong> — Our paper <em>"What the Label Measures: A Target-Validity Analysis of Deep Learning for Chronic Kidney Disease Imaging"</em> has been accepted for presentation at the <strong>7th International Conference on Innovative Computing (ICIC 2026)</strong>, to be held in <strong>University of Management and Technology, Lahore, Pakistan</strong>, on <strong>December 2–3, 2026</strong>.</div>
